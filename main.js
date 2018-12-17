@@ -41,7 +41,7 @@ function estructurar() {
         fila.appendChild(dia);
       }     
     }    
-  }
+  } 
 }
 
 numerar();
